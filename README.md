@@ -595,6 +595,7 @@ Each category contains a clean markdown table with tool name, short use case, an
 | HelpDesk | Software platform for managing customer support requests | [🔗](https://www.helpdesk.com) |
 | HitPaw | HitPaw offers various software tools for video editing and photo enhancement | [🔗](https://www.hitpaw.com) |
 | Hyax | Hyax builds and manages no-code landing pages and funnels | [🔗](https://hyax.com) |
+| IdeaHunter | AI research for startup ideas, market evidence, and MVP scope | [🔗](https://ideahunter.today) |
 | iMyFone | Software tools for mobile device management and data recovery | [🔗](https://www.imyfone.com) |
 | Invoice Simple | Create professional invoices estimates and receipts easily | [🔗](https://www.invoicesimple.com) |
 | iubenda | Generates legally compliant privacy policies and cookie banners | [🔗](https://www.iubenda.com) |
