@@ -707,6 +707,7 @@ Each category contains a clean markdown table with tool name, short use case, an
 | Tagshop AI | Tagshop AI creates product tags and descriptions automatically | [🔗](https://tagshop.ai) |
 | VEED | Online video editing tool with AI features | [🔗](https://www.veed.io) |
 | VideoGen | Generates videos from text prompts using AI | [🔗](https://videogen.io) |
+| videos.social | Turns blogs, PDFs, and prompts into editable faceless videos | [🔗](https://videos.social/?utm_source=tomrzv-top-saas-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) |
 | Vidnoz | Vidnoz creates realistic AI avatars and videos easily | [🔗](https://www.vidnoz.com) |
 | vidyo.ai | AI tool converts long videos into short viral clips | [🔗](https://vidyo.ai) |
 | Vizard | Vizard creates personalized video presentations from text | [🔗](https://vizard.ai) |
