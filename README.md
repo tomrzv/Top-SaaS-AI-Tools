@@ -520,6 +520,7 @@ Each category contains a clean markdown table with tool name, short use case, an
 | Everneed AI | Everneed AI creates personalized marketing content using artificial intelligence | [🔗](https://www.everneedai.com) |
 | Followr | Followr automates social media content creation and scheduling | [🔗](https://followr.ai) |
 | HeyReach | HeyReach finds and verifies professional contact information | [🔗](https://heyreach.io) |
+| Koveto-Vasarlas.hu Engagement Calculator (Hungarian) | Calculate (likes + comments) against a selected followers, reach or views basis from manual inputs | [🔗](https://koveto-vasarlas.hu/tools/engagement-rate) |
 | Later | Later is a social media marketing platform for scheduling content | [🔗](https://later.com) |
 | Manychat | Automates business conversations across messaging platforms | [🔗](https://manychat.com) |
 | Octolens | Octolens provides AI tools for generating and editing images | [🔗](https://octolens.com) |
