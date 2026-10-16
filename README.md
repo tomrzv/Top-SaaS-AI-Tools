@@ -38,6 +38,7 @@ Each category contains a clean markdown table with tool name, short use case, an
 
 | Tools | Used For | 🔗 |
 |---|---|---|
+| [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) | Ficory LLC의 기업급 만화 리더는 모든 지원 번역 언어로 읽기를 제공합니다. 개인은 일괄·맞춤 번역과 작업 흐름용 API를 쓰고, 스튜디오는 완전한 온라인 Photoshop 스타일 편집기를 사용합니다. | [🔗](https://www.mangatranslate.com/ko/ai-manga-translator/) |
 | BasedLabs | BasedLabs provides AI tools for developers and businesses | [🔗](https://www.basedlabs.ai) |
 | CreateStudio | Video creation software for animated explainer videos | [🔗](https://createstudio.com) |
 | daisyUI | DaisyUI provides beautiful, accessible Tailwind CSS components | [🔗](https://daisyui.com) |
