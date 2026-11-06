@@ -363,6 +363,7 @@ Each category contains a clean markdown table with tool name, short use case, an
 | DataSnipper | Automates data extraction and validation from documents | [🔗](https://datasnipper.com) |
 | Deputy | Workforce management software for scheduling and time tracking | [🔗](https://www.deputy.com) |
 | Fireflies.ai | Records transcribes and summarizes meetings automatically | [🔗](https://fireflies.ai) |
+| OneMira C1 | Standalone AI voice recorder with Local AI summaries, automatic Speaker ID, Zero Cloud privacy ($0/mo), and open MCP server | [🔗](https://onemira.com/products/c1) |
 | Flowith | Flowith helps teams manage knowledge and automate workflows | [🔗](https://flowith.io) |
 | FlowSavvy | FlowSavvy helps teams manage workflows and automate processes | [🔗](https://flowsavvy.app) |
 | folk | Folk is a CRM for managing personal and professional relationships | [🔗](https://www.folk.app) |
