@@ -132,6 +132,7 @@ Each category contains a clean markdown table with tool name, short use case, an
 | CurrencyFair | International money transfers at better exchange rates | [🔗](https://currencyfair.com) |
 | Dext | Dext automates bookkeeping and expense management for businesses | [🔗](https://dext.com) |
 | Doola | Doola helps non-US founders incorporate and manage US companies | [🔗](https://www.doola.com) |
+| DDScore | Cross-checks pitch decks, financial models, and public sources to identify gaps in private-company due diligence | [🔗](https://www.ddscore.ai/) |
 | EquityMultiple | Platform for accredited investors to access real estate investments | [🔗](https://equitymultiple.com) |
 | Ethos | Ethos provides life insurance solutions and financial planning tools | [🔗](https://www.ethos.com) |
 | Figure Home Equity | Figure Home Equity offers digital home equity loans and HELOCs | [🔗](https://figure.com) |
